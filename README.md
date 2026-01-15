@@ -1,5 +1,3 @@
-# Apinya (Air) Pituxcoosuvarn
-
 [![image](https://img.shields.io/badge/-Bangkok,%20Thailand-gray?logo=googlemaps&logoColor=white)](#)
 [![image](https://img.shields.io/badge/(+66)-64%20642%204175-gray)](#)
 [![image](https://img.shields.io/badge/apiinyan@gmail.com-gray?logo=maildotru&logoColor=white)](#)
