@@ -7,19 +7,19 @@
 
 > ### 2017-2020
 > 
-> Bachelor of Computer Engineering @ Mahidol University
+> __Bachelor of Computer Engineering__ @ __Mahidol University__
 
 ## Professional Experience
 
 > ### 2021-2024
-> __DevOps Engineer @ ExxonMobil__
+> __DevOps Engineer__ @ __ExxonMobil__
 > 
 > Develop and maintain best practices, guideline, shared services and reusable modules/templates to help development teams to get started on developing software at ease. Here is an example of the works:
 > - Create and maintain GitHub template, GitHub reusable actions and Azure DevOps reusable templates.
 > - Create Terraform reusable modules to manage Azure resources that complied with organization policy and maintain internal Terraform Enterprise instance.
 
 > ### 2024-Now
-> __Full Stack Web Developer @ ExxonMobil__
+> __Full Stack Web Developer__ @ __ExxonMobil__
 >
 > - Design and provision infrastructure for an internal developer portal based on Backstage, enabling centralized service cataloging and documentation management.
 >
